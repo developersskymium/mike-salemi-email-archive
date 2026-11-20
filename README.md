@@ -2,6 +2,7 @@
 
 Private archive of the 1042 retained Kartra emails used by `mike-salemi-email-intelligence`, exported from Supabase project `vkkkarpobwdjkcxasxvr`.
 
+- `PLAYBOOK.md` — patterns, offers, timing and Mike's voice, computed from these emails.
 - `INDEX.md` — every email with date, subject, sent, open and click rate.
 - `emails/` — one `.md` per email (metrics in front-matter + plain text body) and one `.html` rendered preview with images.
 - `assets/images/` — the 438 stored email images.
