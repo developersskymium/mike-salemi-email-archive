@@ -1,0 +1,44 @@
+---
+key: "B763"
+type: "broadcast"
+name: "KBL Live  Class Link 5/25"
+subject: "[Class Link] KBL LIVE 5/25"
+sender: "mike@mikesalemi.io"
+source_date: "2022-05-24"
+source_hour: "18"
+source_minute: "28"
+family: "Kettlebell program"
+word_count: "23"
+sent: "33"
+opens: "19"
+clicks: "2"
+goals: "0"
+unsubs: "0"
+spam: "0"
+bounces: "0"
+open_rate: "57.58%"
+click_rate: "6.06%"
+revenue_field_usd: 0.0
+weekday: "Tuesday"
+sequence: null
+step: null
+status: "sent"
+---
+
+# [Class Link] KBL LIVE 5/25
+
+Hi {first_name},
+
+ 
+
+Here is your class link for KBL LIVE on 5/25 at 8:30amPST/11:30amEST.
+
+ 
+
+See you tomorrow,
+
+Mike
+
+
+---
+[Rendered HTML with images](2022-05-24_B763_class-link-kbl-live-5-25.html)

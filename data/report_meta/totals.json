@@ -1,0 +1,116 @@
+{
+ "broad": {
+  "sent": 1099221,
+  "spam": 353,
+  "goals": 908,
+  "opens": 404241,
+  "clicks": 21656,
+  "unsubs": 2984,
+  "bounces": 515,
+  "goalRate": 0.0008260395316319467,
+  "openRate": 0.36775225364144243,
+  "spamRate": 0.00032113651394942417,
+  "campaigns": 406,
+  "clickRate": 0.019701224776455327,
+  "unsubRate": 0.0027146497383146793,
+  "bounceRate": 0.000468513611002701,
+  "medianWords": 271.5,
+  "revenueField": 37749,
+  "medianClickRate": 0.0120842592,
+  "revenueFieldPerSend": 0.03434159281891449
+ },
+ "narrow": {
+  "sent": 27042,
+  "spam": 9,
+  "goals": 58,
+  "opens": 16448,
+  "clicks": 4413,
+  "unsubs": 47,
+  "bounces": 9,
+  "goalRate": 0.0021448117742770504,
+  "openRate": 0.6082390355742918,
+  "spamRate": 0.0003328156201464389,
+  "campaigns": 515,
+  "clickRate": 0.16319059241180386,
+  "unsubRate": 0.001738037127431403,
+  "bounceRate": 0.0003328156201464389,
+  "medianWords": 74,
+  "revenueField": 5248,
+  "medianClickRate": 0.2,
+  "revenueFieldPerSend": 0.19406848605872346
+ },
+ "sequence": {
+  "sent": 7129,
+  "spam": 11,
+  "goals": 41,
+  "opens": 4559,
+  "clicks": 1236,
+  "unsubs": 48,
+  "bounces": 11,
+  "goalRate": 0.005751157245055407,
+  "openRate": 0.6395006312245757,
+  "spamRate": 0.0015429934072099874,
+  "campaigns": 53,
+  "clickRate": 0.1733763501192313,
+  "unsubRate": 0.0067330621405526725,
+  "bounceRate": 0.0015429934072099874,
+  "medianWords": 299,
+  "revenueField": 2279.1,
+  "medianClickRate": 0.1428571429,
+  "revenueFieldPerSend": 0.31969420676111654
+ },
+ "notification": {
+  "opens": 721,
+  "clicks": 121,
+  "events": 841,
+  "previewDefinitions": 16,
+  "aggregateReportAvailable": false
+ },
+ "allBroadcasts": {
+  "sent": 1126263,
+  "spam": 362,
+  "goals": 966,
+  "opens": 420689,
+  "clicks": 26069,
+  "unsubs": 3031,
+  "bounces": 524,
+  "goalRate": 0.0008577037512552575,
+  "openRate": 0.3735264321033364,
+  "spamRate": 0.00032141693370021034,
+  "campaigns": 921,
+  "clickRate": 0.02314645868682537,
+  "unsubRate": 0.002691200900677728,
+  "bounceRate": 0.0004652554509914647,
+  "medianWords": 184,
+  "revenueField": 42997,
+  "medianClickRate": 0.0485436893,
+  "revenueFieldPerSend": 0.038176695851679404
+ },
+ "retainedContacts": {
+  "all": 2751,
+  "maxEvents": 818,
+  "medianEvents": 373,
+  "noEmailEvents": 53,
+  "noRecordedOpen": 219,
+  "noRecordedClick": 1074
+ },
+ "distinctImageUrls": 474,
+ "retainedHistoryByType": {
+  "sequence": {
+   "opens": 3233,
+   "clicks": 887,
+   "events": 4860
+  },
+  "broadcast": {
+   "opens": 327762,
+   "clicks": 15757,
+   "events": 891318
+  },
+  "notification": {
+   "opens": 721,
+   "clicks": 121,
+   "events": 841
+  }
+ },
+ "imageReferenceOccurrences": 2687
+}

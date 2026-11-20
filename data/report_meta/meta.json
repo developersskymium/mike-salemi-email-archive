@@ -1,0 +1,27 @@
+{
+ "title": "Mike Salemi - Simple Email Report",
+ "builtAt": "2026-11-05T17:52:59.877292+00:00",
+ "rateUnit": "fraction: 0.02 means 2%",
+ "timezone": "Pacific Time as displayed by Kartra; no historical fixed-offset conversion",
+ "bodyFormat": "plain text; never execute archived content",
+ "sourceDates": {
+  "lastBroadcast": "2025-06-12",
+  "firstBroadcast": "2019-11-26",
+  "lastRetainedHistory": "2026-10-18",
+  "firstRetainedHistory": "2018-12-28"
+ },
+ "imageLoading": "Image references only. No remote images fetched or embedded by this dataset.",
+ "schemaVersion": 1,
+ "sequenceCount": 21,
+ "sentBroadcasts": 921,
+ "broadBroadcasts": 406,
+ "definitionCount": 1042,
+ "sourceAuditDate": "2026-11-05",
+ "narrowBroadcasts": 515,
+ "auditedReportPages": 111,
+ "sequenceDefinitions": 104,
+ "broadcastDefinitions": 922,
+ "broadMinimumRecipients": 500,
+ "notificationDefinitions": 16,
+ "sentSequenceDefinitions": 53
+}

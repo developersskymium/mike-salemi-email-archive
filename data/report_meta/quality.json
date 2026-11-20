@@ -1,0 +1,23 @@
+{
+ "notes": [
+  "Full available template text is included, not each personalized delivered MIME copy.",
+  "Notification engagement uses retained history snapshots; all-time notification report totals are unavailable.",
+  "Sequence send denominators repeat people across steps; they are not unique subscribers.",
+  "Capture times vary across contacts; historical addresses, missing recipients and exact missing seconds were not reconstructed.",
+  "Some source family and language labels are heuristic proxies rather than semantic ground truth.",
+  "Personal/session query parameters and unsubscribe destinations are sanitized in this web dataset; the original local archive is unchanged."
+ ],
+ "fullBodiesRetained": true,
+ "privacySanitization": {
+  "bodyUrlsSanitized": 8,
+  "linkUrlsSanitized": 576
+ },
+ "archiveCompleteAllTime": false,
+ "recipientRosterIncluded": false,
+ "sourceReportMismatchCases": 1,
+ "imageContentVisuallyAnalysed": false,
+ "rawRecipientHistoriesIncluded": false,
+ "recordedMoneyIsNotVerifiedSales": true,
+ "aggregateCountsMayExceedRetainedLists": true,
+ "zeroSendDefinitionsAreNotFailedCampaigns": true
+}

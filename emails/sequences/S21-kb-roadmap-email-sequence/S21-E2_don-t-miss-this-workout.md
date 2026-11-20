@@ -1,0 +1,113 @@
+---
+key: "S21-E2"
+type: "sequence"
+name: "Email 2"
+subject: "Don't Miss This WORKOUT 💪"
+sender: "support@mikesalemi.io"
+source_date: ""
+source_hour: ""
+source_minute: ""
+family: "Other / mixed"
+word_count: "358"
+sent: "172"
+opens: "107"
+clicks: "36"
+goals: "1"
+unsubs: "4"
+spam: "2"
+bounces: "1"
+open_rate: "62.21%"
+click_rate: "20.93%"
+revenue_field_usd: 697.0
+weekday: null
+sequence: "KB Roadmap Email Sequence"
+step: 2
+status: "sent"
+---
+
+# Don't Miss This WORKOUT 💪
+
+Hello {first_name}, 
+
+ 
+
+Burning calories is easy. 
+
+ 
+
+Getting yourself tired and sore is easy. 
+
+ 
+
+Training - actual training - takes insight into how the body works and recovers. 
+
+ 
+
+When I was in my teens and early 20s, I was a competitive powerlifter and I trained incredibly hard for that goal.
+
+ 
+
+It was tough training, BUT longevity and feeling good were not part of the plan...and I paid for it with injuries as a result.
+
+ 
+
+It was once I began competing in Kettlebell Sport that I chased down information on how to have both performance and longevity.
+
+ 
+
+This information is how I was able to keep competing and win. It’s how I was able to turn training stress into positive adaptation. 
+
+ 
+
+There is a lot of stress in modern life and many people today workout because of how they feel afterwards.  
+
+ 
+
+There are TONS of benefits to exercise…however, an essential part to not forget is this - recovery. 
+
+ 
+
+I have a simple idea: by focusing on consistency, technique, AND recovery you can be as much of a badass as you want without the wear and tear that is standard in today’s fitness culture. 
+
+ 
+
+Stick around and I’ll keep sending you the information you need to get what you want out of training. 
+
+ 
+
+Now, to aid in your journey, I am including two gifts below:
+
+ 
+
+GIFT #1
+
+Here is Your Kettlebell Roadmap Checklist. 
+
+This is a PDF with each of the 4 phases from the Kettlebell Roadmap put onto 1 page. Print it out to help you track your progress as you move through the phases and find your confidence with kettlebells. 
+
+ 
+
+ 
+
+GIFT #2
+
+Use this free follow-along workout straight from my  Kettlebell Lifestyle (KBL) Workout Program.
+
+ 
+
+The workout comes from "Phase 2" of KBL and focuses especially on building skill and conditioning with movements that are more dynamic than Phase 1. 
+
+Access the workout here. 
+ 
+
+Train Intentionally,
+
+Mike Salemi
+
+ 
+
+P.S. Tomorrow I’ll send an email about the aspects of performance and athleticism that are typically left out of the discussion. Be sure to look for it. You’ll start to see why I say heavier is not always better.
+
+
+---
+[Rendered HTML with images](S21-E2_don-t-miss-this-workout.html)

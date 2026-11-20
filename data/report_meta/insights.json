@@ -1,0 +1,761 @@
+{
+ "cards": [
+  {
+   "keys": [],
+   "text": "Broad broadcasts average 1.97% recorded click/recipient; narrow customer and service cohorts average 16.32%. The difference does not prove better wording.",
+   "title": "Compare emails doing the same job"
+  },
+  {
+   "keys": [
+    "B182",
+    "B294",
+    "B1087"
+   ],
+   "text": "Concrete technique and tutorial invitations appear among strong engagement examples. Compare the same audience and offer before crediting the writing itself.",
+   "title": "Useful movement resources are good test candidates"
+  },
+  {
+   "keys": [
+    "B929",
+    "B978"
+   ],
+   "text": "A subject can attract opens while the message earns few recorded clicks. Neither metric alone proves sales or reader satisfaction.",
+   "title": "Opens are one part of the story"
+  },
+  {
+   "keys": [
+    "B1063",
+    "B1060",
+    "B90"
+   ],
+   "text": "Zero tracked clicks on a reply-led email is a known click result, not proof of zero conversations. Replies, bookings and offline outcomes are unavailable.",
+   "title": "A reply invitation needs a reply metric"
+  },
+  {
+   "keys": [
+    "S17-E10"
+   ],
+   "text": "KBL account access records 81 clicks from 100 reported recipients. That immediate customer need differs from selling to prospects.",
+   "title": "Customer access is a utility benchmark"
+  },
+  {
+   "keys": [],
+   "text": "Day and hour comparisons change when the year mix is equalized. Recipient local time, topic and audience differences remain uncontrolled.",
+   "title": "Test a send window rather than declaring a universal winner"
+  },
+  {
+   "keys": [
+    "B532"
+   ],
+   "text": "USD 676,005 is the overall sales-dashboard display; USD 42,997 is the broadcast report-field sum; USD 4,000 belongs to one email. Actual email-caused sales are not established.",
+   "title": "Separate money scopes"
+  }
+ ],
+ "cases": [
+  {
+   "key": "B182",
+   "why": "295 recorded clicks / 3,118 reported recipients = 9.46%.",
+   "limit": "An older observational result; no isolated wording effect or verified sales result.",
+   "quote": "Click here to watch the technique breakdown tutorial.",
+   "title": "A specific skill gives the reader a reason to click",
+   "lesson": "Name the capability, explain its relevance and offer a useful tutorial."
+  },
+  {
+   "key": "B1087",
+   "why": "160 recorded clicks / 2,549 reported recipients = 6.28%.",
+   "limit": "This is the whole email's click count. Its health wording is source copy, not independently verified advice.",
+   "quote": "You can check out the video here.",
+   "title": "A practical video invitation",
+   "lesson": "A recognizable problem and a clear resource invitation are worth testing again."
+  },
+  {
+   "key": "B1037",
+   "why": "195 recorded clicks / 2,679 reported recipients = 7.28%.",
+   "limit": "Topic, audience and multiple destinations differ; the format alone did not cause this result.",
+   "quote": "What to do if you're lacking the energy to train",
+   "title": "A podcast letter with a concrete reader problem",
+   "lesson": "Lead with a relevant problem and useful content rather than judging the podcast format as one undifferentiated group."
+  },
+  {
+   "key": "B978",
+   "why": "885 recorded opens / 1,531 recipients = 57.81%; 11 clicks = 0.72%.",
+   "limit": "This does not identify why the gap occurred or establish actual sales.",
+   "quote": "If you're like me, sometimes living out perfectionistic tendencies is a double-edged sword.",
+   "title": "High opens, few recorded clicks",
+   "lesson": "Measure the intended next action after the open."
+  },
+  {
+   "key": "B1063",
+   "why": "827 recorded opens from 2,611 recipients; zero recorded clicks.",
+   "limit": "Those outcomes are unavailable. Zero clicks is not proof of failure.",
+   "quote": "Simply reply to this email and we'll chat further.",
+   "title": "A reply letter needs reply data",
+   "lesson": "Count replies, qualified conversations and bookings when the email asks for a conversation."
+  },
+  {
+   "key": "B1167",
+   "why": "111 recorded clicks / 2,489 reported recipients = 4.46%.",
+   "limit": "Per-link click attribution and actual sales are not established.",
+   "quote": "Am I moving to connect… or to avoid?",
+   "title": "Personal vulnerability with a self-check resource",
+   "lesson": "A lived experience can lead naturally into a relevant next action."
+  },
+  {
+   "key": "B1165",
+   "why": "3 recorded clicks / 2,492 reported recipients = 0.12%.",
+   "limit": "The email also invites replies; reply and booking outcomes are unavailable.",
+   "quote": "In 72 hours, we close registration for the Primal Reset Retreat in Mt. Shasta, CA.",
+   "title": "A deadline is not a guarantee",
+   "lesson": "Test relevance, offer and action rather than relying on a deadline alone."
+  },
+  {
+   "key": "B532",
+   "why": "The saved Revenue field is USD 4,000 alongside 107 clicks and two Goals.",
+   "limit": "Neither actual total sales from the email nor causal email contribution is established.",
+   "quote": "Trusting yourself about what you truly value and not caving to outside pressure is huge for self-respect.",
+   "title": "One email's recorded credit, not the business total",
+   "lesson": "Keep a single campaign field separate from email-report sums and the overall sales dashboard."
+  },
+  {
+   "key": "B86",
+   "why": "The row has USD 2,982 in its Revenue field, 100 clicks, 48 unsubscribes (2.27%) and five spam events.",
+   "limit": "The saved monetary field is not reconciled actual sales, and the net business tradeoff is unknown.",
+   "quote": "Grab the $500 coupon quick-style, before time runs out!",
+   "title": "A clear coupon and recorded subscriber friction",
+   "lesson": "Track negative outcomes beside a validated sales measure."
+  },
+  {
+   "key": "B1004",
+   "why": "103 recorded clicks from 2,740 recipients; USD 2,673.50 appears in the saved Revenue field.",
+   "limit": "The email promotes multiple programs; product-specific and actual sales attribution remain unresolved.",
+   "quote": "Pre-Orders: Available NOW, click here Program Access: January 1st.",
+   "title": "Clear launch logistics",
+   "lesson": "Explain what is available now and when the buyer gets access."
+  },
+  {
+   "key": "B99",
+   "why": "135 recorded clicks from 2,111 recipients; the source also shows 27 Goals and a positive Revenue field.",
+   "limit": "The story, launch offer, audience and attribution cannot be separated as causes.",
+   "quote": "What would it feel like to have a body that is strong, athletic and mobile?",
+   "title": "A personal story connected to an explicit offer",
+   "lesson": "Translate experience into a useful reader question and clear program terms."
+  },
+  {
+   "key": "S21-E1",
+   "why": "66 recorded clicks / 197 reported step sends = 33.50%.",
+   "limit": "Lead-magnet intent and early sequence position make this unlike a broad acquisition email.",
+   "quote": "Here is your Kettlebell Roadmap.",
+   "title": "Deliver the resource the reader requested",
+   "lesson": "A promised roadmap has a clear immediate job."
+  },
+  {
+   "key": "S21-E2",
+   "why": "36 recorded clicks / 172 reported step sends = 20.93%; USD 697 appears in the Revenue field.",
+   "limit": "A gift destination does not establish a direct checkout conversion or a causal sales effect.",
+   "quote": "Burning calories is easy. Getting yourself tired and sore is easy. Training - actual training - takes insight into how the body works and recovers.",
+   "title": "A free workout is not proof of a purchase",
+   "lesson": "Useful resource delivery and monetary attribution are different pieces of evidence."
+  },
+  {
+   "key": "S17-E10",
+   "why": "81 recorded clicks / 100 reported step sends = 81%.",
+   "limit": "This cannot be used as a sales-subject or newsletter writing benchmark.",
+   "quote": "Welcome to Kettlebell Lifestyle!",
+   "title": "Account access has a different kind of intent",
+   "lesson": "Make customer activation easy and judge it against its own purpose."
+  },
+  {
+   "key": "N95",
+   "why": "The retained current-contact histories contain 95 events, including 86 Open=Yes and 61 Click=Yes values.",
+   "limit": "These are retained history events, not a campaign-wide recipient report or a complete historical send total.",
+   "quote": "Get access to video and PDF by clicking the button below",
+   "title": "A promised free video and PDF",
+   "lesson": "Clear promised-resource delivery is a useful customer/lead-service pattern."
+  }
+ ],
+ "voice": {
+  "phrases": [
+   "I hope you enjoy",
+   "if you'd like",
+   "let me know",
+   "with your success in mind",
+   "Train Intentionally"
+  ],
+  "description": "The reviewed brand voice mixes practical coaching, lived experience, warmth and invitations. Some later content uses presence, ownership, fatherhood and leadership themes. This is observed brand expression, not proof of one author's personality or sales causation.",
+  "reviewMethod": "Purposeful qualitative reading of complete retained visible text for revenue leaders, click leaders, no-anchor/zero-click cases, matched or same-size comparisons, recent2025 topics, transactional counterexamples and high-open/low-click cases. Not a random sample or exhaustive manual semantic annotation. All922report rows were processed computationally.",
+  "reviewedBroadcastBodies": 67
+ },
+ "updated": "5 November 2026",
+ "version": "1.0",
+ "sections": [
+  {
+   "id": "voice",
+   "body": [
+    {
+     "heading": "Start with something real.",
+     "evidence": [
+      "B99",
+      "B1167",
+      "B1168"
+     ],
+     "paragraphs": [
+      "The strongest editorial pattern is an experience or recognizable situation, a useful interpretation, then a next step. B99 begins with an early coaching memory before introducing KBL. B1167 describes using training to avoid difficult feelings before offering reflection and a self-check resource.",
+      "Keep specific experiences and plain language. Do not add a personal story merely because stories are assumed to sell. In the audited lexical comparison, the story-cue click gap shrinks sharply after equalizing year mix: about 2.02% versus 1.97%. Topic, audience and action still differ."
+     ]
+    },
+    {
+     "heading": "Be an approachable expert.",
+     "evidence": [
+      "B182",
+      "B244",
+      "B391"
+     ],
+     "paragraphs": [
+      "Technical letters name a movement, explain a progression and offer something the reader can use. Mike often backs authority with his coaching experience, a demonstration or a named collaborator, while keeping the tone conversational.",
+      "Phrases such as 'I hope you enjoy', 'if you'd like' and 'over the years' are recurring examples of this style. They describe the brand's writing habits; their frequency is not proof of persuasion."
+     ]
+    },
+    {
+     "heading": "Keep the range, not a rigid imitation.",
+     "evidence": [
+      "B1135",
+      "B1136",
+      "B1063",
+      "B1166"
+     ],
+     "paragraphs": [
+      "The archive includes enthusiastic training language, reflective fatherhood stories, gentle invitations and stronger challenges about discipline or ownership. B1135 and B1136 illustrate a more confrontational identity frame, while B1063 invites conversation through vulnerability.",
+      "Use the style that fits the audience and purpose. Do not treat the archive's health claims as independently verified facts. The analysis describes demonstrated brand copy, not proof of who wrote every message or what Mike privately believes."
+     ]
+    }
+   ],
+   "title": "Mike's voice",
+   "summary": "Personal, practical and direct, with room for both warmth and challenge."
+  },
+  {
+   "id": "offers",
+   "body": [
+    {
+     "heading": "Clear details are worth testing.",
+     "evidence": [
+      "B1004",
+      "B608",
+      "B99"
+     ],
+     "paragraphs": [
+      "Useful offer details include who it is for, what the person receives, access timing, price or guarantee where relevant, and what to do next. B1004 states that preorders are available now and access starts on January 1st. B608 adds personalized help to its program offers.",
+      "Their positive saved Revenue fields make them source-credit examples, not verified true sales winners. We cannot isolate the effect of the offer, tone or deadline from audience and attribution differences."
+     ]
+    },
+    {
+     "heading": "Promised resources and access have built-in intent.",
+     "evidence": [
+      "S21-E1",
+      "S21-E2",
+      "S17-E10"
+     ],
+     "paragraphs": [
+      "The first two Kettlebell Roadmap steps record 102 clicks from 369 repeated step sends (27.64%). The other five sent definitions record 61 from 874 (6.98%). Earlier position and the promised resource are competing explanations for the gap.",
+      "KBL account access records 81 clicks from 100 reported sends. This is useful customer activation evidence, not a fair subject-line benchmark for a prospect sales message."
+     ]
+    },
+    {
+     "heading": "Watch pressure and expectations.",
+     "evidence": [
+      "B86",
+      "S21-E2",
+      "S21-E8",
+      "S15-E1",
+      "S15-E4"
+     ],
+     "paragraphs": [
+      "B86 records 48 unsubscribes from 2,115 recipients (2.27%) alongside a positive Revenue field. Roadmap accounts for nine of 11 sequence spam complaints in the saved reports. These are reasons to investigate targeting and expectations, not proof that any one phrase caused the complaints.",
+      "In the four-day KBL promotion, recorded click rates fall from 12.38% to 9.03%, 5.56% and 4.97%. Stage, topic and changing cohorts are confounded. Test later-step clarity and purpose before concluding that urgency worked or that the audience was fatigued."
+     ]
+    },
+    {
+     "heading": "Zero-send drafts are not failed campaigns.",
+     "evidence": [
+      "S1-E1",
+      "S3-E1",
+      "S5-E1",
+      "S21-E1"
+     ],
+     "paragraphs": [
+      "The 104 sequence definitions include 53 with reported sends and 51 without. Some zero-send definitions contain placeholder copy or duplicate templates. Their presence does not prove that the writing worked, failed or was ever delivered.",
+      "Saved flow labels also describe configuration at capture, not a reconstruction of every historical delivery. Check dates, active branches and cadence before any future reuse."
+     ]
+    }
+   ],
+   "title": "Offers and sequences",
+   "summary": "Make the offer clear, and separate prospect persuasion from customer help."
+  },
+  {
+   "id": "subjects",
+   "body": [
+    {
+     "heading": "Name the reader's reason to open.",
+     "evidence": [
+      "B182",
+      "B1087",
+      "B1037"
+     ],
+     "paragraphs": [
+      "Several recorded click examples name a concrete movement, problem or capability. B182 promises rotational ability; B1087 offers a specific stretch video. The subject and body then work together toward a useful resource.",
+      "This is a packaging idea to test. An email-level click count does not tell us which subject words caused the response or which individual link received the clicks."
+     ]
+    },
+    {
+     "heading": "Questions, emojis and length are not universal rules.",
+     "evidence": [
+      "B86",
+      "B978",
+      "B1037",
+      "B1140"
+     ],
+     "paragraphs": [
+      "Question-mark subjects do not consistently outperform the rest in this archive. And 88 of 89 broad emails with emoji subjects are podcast-labelled, so the emoji comparison mostly mixes different content formats.",
+      "Subject lengths of 30-44 characters have higher raw opens than 45-59 characters, while the latter have higher raw clicks. Those mixed results do not establish one perfect length. Compare the same offer and audience before deciding."
+     ]
+    },
+    {
+     "heading": "A deadline needs context.",
+     "evidence": [
+      "B1165",
+      "B86",
+      "B109"
+     ],
+     "paragraphs": [
+      "B1165 clearly says registration closes in 72 hours, yet records only three clicks from 2,492 recipients (0.12%). It also asks for replies, which this archive does not measure.",
+      "A genuine deadline can clarify an offer. It is not proof that urgency causes sales, and it should not be added to every message as a substitute for relevance."
+     ]
+    }
+   ],
+   "title": "Subject lines",
+   "summary": "A useful promise matters more than copying a punctuation trick."
+  },
+  {
+   "id": "opens-clicks",
+   "body": [
+    {
+     "heading": "High opens can coexist with few clicks.",
+     "evidence": [
+      "B978",
+      "B929",
+      "B1063"
+     ],
+     "paragraphs": [
+      "B978 records 885 opens from 1,531 recipients (57.81%) but only 11 clicks (0.72%). B929 also has a high recorded open rate and a much lower click rate. Neither result proves what people thought or whether they later purchased.",
+      "For a resource email, follow the open with the intended resource action. For conversation, count replies and qualified bookings. For sales, use verified orders under a defined attribution rule."
+     ]
+    },
+    {
+     "heading": "Zero clicks does not settle the result.",
+     "evidence": [
+      "B1063",
+      "B179",
+      "B130",
+      "B250"
+     ],
+     "paragraphs": [
+      "B1063 says, 'Simply reply to this email and we'll chat further.' It records 827 opens and zero clicks, but reply and booking counts are unavailable. Fully contained lessons and prelaunch teasers can also have a different job from driving a link click.",
+      "The retained preview is not the delivered personalized email. B250 has no captured hyperlink anchor, contains a raw Zoom URL, and still reports ten clicks. Treat the source fields and the preview's limits separately."
+     ]
+    },
+    {
+     "heading": "Compare similar audiences.",
+     "evidence": [
+      "B182",
+      "B803",
+      "S17-E10"
+     ],
+     "paragraphs": [
+      "The 406 broad broadcasts have a 1.97% weighted recorded click rate. The 515 smaller-cohort broadcasts have 16.32%, often in service or customer contexts. The narrow group is not proof of a better newsletter writing formula.",
+      "Rates here divide saved event counts by reported recipients and repeat people across emails. They are not independently verified human sessions, unique reach or sales conversion rates."
+     ]
+    }
+   ],
+   "title": "Opens, clicks and the real job",
+   "summary": "Attention is useful. The right next action is what you need to measure."
+  },
+  {
+   "id": "patterns",
+   "body": [
+    {
+     "heading": "Useful patterns to carry forward.",
+     "evidence": [
+      "B1087",
+      "B1004",
+      "B1167",
+      "B1037",
+      "B1140"
+     ],
+     "paragraphs": [
+      "Concrete problems, practical resources, explicit logistics and a recognizable coaching voice provide useful starting points. Test a clear bridge from the story or lesson to the action you want.",
+      "Podcast format is not uniformly weak: B1037 records 195 clicks from 2,679 recipients (7.28%), while other podcast letters receive far fewer. Investigate topic, promise and next step instead of abandoning a channel because its mixed historical average is lower."
+     ]
+    },
+    {
+     "heading": "No proven perfect length or image count.",
+     "evidence": [
+      "B170",
+      "B978",
+      "B1037"
+     ],
+     "paragraphs": [
+      "Short emails do not always beat long ones. B170 has 838 visible words and a 7.96% click rate; B978 has 755 words and a 0.72% rate. Their purpose, audience and content differ.",
+      "Image and link counts include template, footer and decorative elements. B1037 has 17 captured image tags and still records strong clicks. Actual image files were not downloaded or visually analysed, so the evidence cannot identify winning colors, faces or compositions."
+     ]
+    },
+    {
+     "heading": "No proven universal best day or hour.",
+     "evidence": [
+      "B243",
+      "B182",
+      "B1087"
+     ],
+     "paragraphs": [
+      "Among common years 2022-2025, raw Wednesday clicks are about 2.172% versus Monday's 1.476%. Giving the days the same year mix changes them to about 1.657% and 1.643%. The apparent gap nearly disappears.",
+      "Timing uses campaign-start clocks in Pacific Time, not the times readers opened, clicked or bought. Evening and midday patterns can suggest a fair send-window test; they cannot establish an optimum for all audiences."
+     ]
+    },
+    {
+     "heading": "The financial answer remains open.",
+     "evidence": [
+      "B532",
+      "B86",
+      "B1004",
+      "S21-E2"
+     ],
+     "paragraphs": [
+      "B532's USD 4,000 is one saved email-report credit. The broadcast fields sum to USD 42,997, while the separate Sales Analytics dashboard displays USD 676,005 across its broader scope. Neither establishes how much money email caused.",
+      "Do not rank actual sales winners, forecast profit or calculate ROI from these fields. Missing attribution, refunds, rebills, order coverage and the attribution rule need reconciliation. Zero fields do not prove zero actual sales."
+     ]
+    }
+   ],
+   "title": "What looks useful, and what is still unknown",
+   "summary": "Use the evidence to choose tests, not to invent a guaranteed winning formula."
+  },
+  {
+   "id": "strategy",
+   "body": [
+    {
+     "heading": "Start with the job and the scorecard.",
+     "evidence": [
+      "B182",
+      "B1063",
+      "B1004",
+      "S17-E10"
+     ],
+     "paragraphs": [
+      "Teach: name a problem, explain one useful idea, then offer the resource. Converse: share a relevant observation, ask one genuine question and count replies. Invite: explain fit, outcome and logistics, then measure registration or booking. Activate: make access or the next customer task easy.",
+      "For sales, first define verified orders and whether the outcome is booked sales, collected cash, gross receipts or net receipts. Reconcile attribution before using the archived dollar rankings as business results."
+     ]
+    },
+    {
+     "heading": "Keep the test simple and fair.",
+     "evidence": [
+      "B1135",
+      "B1136",
+      "B86",
+      "B1165"
+     ],
+     "paragraphs": [
+      "Choose one main change: the subject, opening, resource framing, next step or send window. Keep audience, offer and observation window comparable. Random assignment is preferable where feasible.",
+      "Pick the primary outcome and negative guardrails before sending. Record counts as well as rates. Do not stop merely because a favorable result appears, and do not declare a permanent winner from one small send."
+     ]
+    },
+    {
+     "heading": "Use a sensible order of work.",
+     "evidence": [
+      "B1087",
+      "B1037",
+      "B1167",
+      "S21-E1",
+      "S21-E8"
+     ],
+     "paragraphs": [
+      "First fix definitions and measurement. Then test concrete resource packaging, podcast packaging and the story-to-action bridge. After that, compare practical send windows and clarify later sequence steps.",
+      "A recent broad audience is often about 2,500 people. A simple split can produce few outcome events, so small percentage changes may remain uncertain. Report what the test supports and what it still cannot answer."
+     ]
+    }
+   ],
+   "title": "A practical strategy",
+   "summary": "Choose the job, keep the useful voice, and test one meaningful change at a time."
+  }
+ ],
+ "testPlan": [
+  {
+   "id": "measurement",
+   "steps": [
+    "Define the intended action and the audience.",
+    "Choose a fixed observation window.",
+    "For sales, reconcile orders and the attribution rule before interpreting dollars."
+   ],
+   "title": "1. Define the result",
+   "summary": "Choose the email's job before writing.",
+   "evidence": [
+    "B1063",
+    "B978",
+    "B532"
+   ],
+   "guardrails": [
+    "Unsubscribes",
+    "Spam complaints",
+    "Operational accuracy"
+   ],
+   "primaryMetric": "The action appropriate to the email's job"
+  },
+  {
+   "id": "resource",
+   "steps": [
+    "Use a comparable audience and the same resource.",
+    "Keep the offer and delivery context stable.",
+    "Change one main packaging element."
+   ],
+   "title": "2. Test the useful promise",
+   "summary": "Compare a specific problem/skill promise with a broader benefit.",
+   "evidence": [
+    "B182",
+    "B1087",
+    "B1037"
+   ],
+   "guardrails": [
+    "Unsubscribes",
+    "Spam complaints"
+   ],
+   "primaryMetric": "Recorded resource clicks per reported recipient"
+  },
+  {
+   "id": "story",
+   "steps": [
+    "Keep the offer and subject constant where feasible.",
+    "Give both versions the same intended next step.",
+    "Count replies separately when conversation is requested."
+   ],
+   "title": "3. Test the story-to-action bridge",
+   "summary": "Compare a relevant short story with a direct teaching opening.",
+   "evidence": [
+    "B99",
+    "B1167",
+    "B1063"
+   ],
+   "guardrails": [
+    "Comparable audiences",
+    "Same observation window",
+    "Unsubscribes"
+   ],
+   "primaryMetric": "Resource action or qualified replies, defined in advance"
+  },
+  {
+   "id": "timing",
+   "steps": [
+    "Use the same timezone consistently.",
+    "Keep offer and audience type comparable.",
+    "Rotate or randomize assignment where feasible; collect more than one small send."
+   ],
+   "title": "4. Compare practical send windows",
+   "summary": "Use comparable blocks rather than declaring a permanent best day.",
+   "evidence": [
+    "B243",
+    "B182",
+    "B1087"
+   ],
+   "guardrails": [
+    "Audience and offer balance",
+    "Unsubscribes",
+    "Adequate outcome counts"
+   ],
+   "primaryMetric": "The intended action per reported recipient"
+  },
+  {
+   "id": "sequence",
+   "steps": [
+    "Separate onboarding from prospect sales.",
+    "Check the saved branch, dates and message promises before reuse.",
+    "Test one later resource or offer step without changing the whole series at once."
+   ],
+   "title": "5. Clarify later steps",
+   "summary": "Make cadence, purpose and the next step clear throughout the sequence.",
+   "evidence": [
+    "S21-E1",
+    "S21-E2",
+    "S21-E8",
+    "S17-E10"
+   ],
+   "guardrails": [
+    "Spam complaints",
+    "Unsubscribes",
+    "Accurate expectations"
+   ],
+   "primaryMetric": "Stage-appropriate action and progression"
+  }
+ ],
+ "scopeNote": "Based on the retained Kartra email archive and the 5 November 2026 source audit. These are recorded patterns and test ideas; actual email-caused sales and a true sales winner remain unverified.",
+ "takeaways": [
+  {
+   "id": "be-specific",
+   "title": "Be useful and specific.",
+   "detail": [
+    "A named movement, a recognizable problem and a useful tutorial give the reader a clear reason to act. B182 records 295 clicks from 3,118 recipients (9.46%); the more recent B1087 records 160 from 2,549 (6.28%).",
+    "These examples support testing this construction again. They do not prove that a particular phrase caused the clicks, and their results are not verified sales outcomes."
+   ],
+   "summary": "Concrete skills and useful resources have several strong recorded click examples.",
+   "evidence": [
+    "B182",
+    "B294",
+    "B1087"
+   ]
+  },
+  {
+   "id": "clear-action",
+   "title": "Make the next step obvious.",
+   "detail": [
+    "The next action should match the email's purpose. A promised resource, an account-access link and a coaching conversation are different jobs with different starting levels of intent.",
+    "One main decision is a sensible test candidate, not an established universal link-count rule. Captured anchors can include social links, footers and repeated destinations."
+   ],
+   "summary": "Choose one main action: use a resource, register, reply, buy or get access.",
+   "evidence": [
+    "S21-E1",
+    "S17-E10",
+    "B1063"
+   ]
+  },
+  {
+   "id": "human-voice",
+   "title": "Sound like a real coach.",
+   "detail": [
+    "Mike's demonstrated brand voice often starts with a lived experience or familiar problem, explains what he has learned, and invites the reader into a practical next step.",
+    "His range includes technical teaching, personal vulnerability and a more challenging men's-development voice. The evidence does not support making every message intense, urgent or deeply personal."
+   ],
+   "summary": "Keep the personal experience, clear lesson, warmth and direct language.",
+   "evidence": [
+    "B99",
+    "B244",
+    "B1167",
+    "B1135"
+   ]
+  },
+  {
+   "id": "right-scorecard",
+   "title": "Measure the right result.",
+   "detail": [
+    "B978 has 885 recorded opens from 1,531 recipients (57.81%), but only 11 clicks (0.72%). A strong open metric alone does not establish the desired next action.",
+    "B1063 explicitly asks for replies. It records zero clicks, but the archive does not tell us how many people replied, booked or bought. Zero clicks is not enough to call that email a failure."
+   ],
+   "summary": "Opens, clicks, replies, activation and verified sales answer different questions.",
+   "evidence": [
+    "B978",
+    "B1063",
+    "S17-E10"
+   ]
+  },
+  {
+   "id": "money-scope",
+   "title": "Keep the money figures separate.",
+   "detail": [
+    "USD 4,000 belongs to one broadcast's saved Revenue field, B532. The 921 archived sent broadcasts' fields sum to USD 42,997; the separate sequence-step fields sum to USD 2,279.10.",
+    "The live Sales Analytics dashboard displays USD 676,005 across all products and checkouts, All Time, including sales and rebills. It is shown in whole USD and is not allocated to email. Do not add or subtract these figures to calculate missing email revenue.",
+    "A true sales ranking or ROI needs transaction matching and an explicit attribution rule. A zero source field does not establish zero actual sales."
+   ],
+   "summary": "One email credit, an email-report sum and the overall sales dashboard are different measures.",
+   "evidence": [
+    "B532",
+    "B86",
+    "B1004"
+   ]
+  }
+ ],
+ "caseExamples": [
+  {
+   "key": "B532",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Trusting yourself about what you truly value and not caving to outside pressure is huge for self-respect.",
+   "subject": "Just for Men - Hold Your Ground Retreat"
+  },
+  {
+   "key": "B86",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Grab the $500 coupon quick-style, before time runs out!",
+   "subject": "{first_name}, how about a $500 coupon?"
+  },
+  {
+   "key": "B99",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "What would it feel like to have a body that is strong, athletic and mobile?",
+   "subject": "{first_name}, life is what you make it!"
+  },
+  {
+   "key": "B1004",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Pre-Orders: Available NOW, click here Program Access: January 1st.",
+   "subject": "[Pre-Order Now] Bulgarian Bag Online Program!"
+  },
+  {
+   "key": "B182",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Click here to watch the technique breakdown tutorial.",
+   "subject": "The number one movement to develop dynamic rotational ability"
+  },
+  {
+   "key": "B294",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "BULLETPROOF Your Shoulders with the KETTLEBELL ARM BAR",
+   "subject": "BULLETPROOF Your Shoulders with the KETTLEBELL ARM BAR"
+  },
+  {
+   "key": "B1037",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "What to do if you're lacking the energy to train",
+   "subject": "[🎙️NEW EP.] Common Fitness Challenges: Overcoming Energy Slumps and More"
+  },
+  {
+   "key": "B608",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "as an added bonus I am offering a 30 minute call that will help you personalize each program",
+   "subject": "Reminder: Special Offer On All Mike Salemi Programs Ends Tomorrow"
+  },
+  {
+   "key": "B950",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "It's essential that participants are willing to: Contribute and actively participate in the program.",
+   "subject": "Last Call for Early Program Pricing: 4 Hours Remaining"
+  },
+  {
+   "key": "B1135",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "A weak man has no boundaries and is a people pleaser.",
+   "subject": "What Makes a Weak Man"
+  },
+  {
+   "key": "B1167",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Am I moving to connect… or to avoid?",
+   "subject": "What Weights Can't Fix"
+  },
+  {
+   "key": "B1063",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Simply reply to this email and we'll chat further.",
+   "subject": "The Dark Side of Achievement: Let's Talk"
+  },
+  {
+   "key": "B978",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "This core type is fueled by a fundamental fear, belief, and desire",
+   "subject": "The Perfectionist's Dilemma"
+  },
+  {
+   "key": "B1165",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "In 72 hours, we close registration for the Primal Reset Retreat in Mt. Shasta, CA.",
+   "subject": "72 Hours Left: Last Call for the Primal Reset Retreat"
+  },
+  {
+   "key": "B803",
+   "note": "Archived marketing wording. Consult the email's job, audience, recorded engagement and the financial-scope caveat before judging success.",
+   "quote": "Here is a link for the remaining $455 that is due:",
+   "subject": "Remaining Payment Due - Bulgarian Bag Certification"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "limits": [
+  "Sales dashboard amount is not allocated to email channels.",
+  "No transaction-by-transaction reconciliation or independently verified email-generated total.",
+  "Do not sum these source fields or subtract them to infer missing email revenue.",
+  "Original archived monetary values and all other broadcast row metrics matched live Kartra at this check."
+ ],
+ "scopes": [
+  {
+   "id": "business-sales",
+   "label": "Overall Kartra sales dashboard",
+   "value": 676005,
+   "source": "https://app.kartra.com/sales/payments/analytics",
+   "meaning": "All products, all checkouts, all time; includes sales and rebills.",
+   "currency": "USD",
+   "limitation": "Whole USD as displayed. Not allocated to email. Refunds, chargebacks and commissions are not reconciled here."
+  },
+  {
+   "id": "broadcast-credit",
+   "label": "Recorded broadcast Revenue fields",
+   "value": 42997,
+   "meaning": "Sum of 921 sent-broadcast source report entries.",
+   "currency": "USD",
+   "limitation": "Source credit, not verified actual email-generated sales or a deduplicated ledger."
+  },
+  {
+   "id": "single-b532",
+   "label": "One broadcast's recorded credit",
+   "value": 4000,
+   "meaning": "B532: Just for Men - Hold Your Ground Retreat.",
+   "currency": "USD",
+   "emailKey": "B532",
+   "limitation": "One email-report field, not the total Mike earned and not verified total sales from this email."
+  },
+  {
+   "id": "sequence-credit",
+   "label": "Recorded sequence-step Revenue fields",
+   "value": 2279.1,
+   "meaning": "Separate sum of 104 sequence-definition report rows, including zero-send definitions.",
+   "currency": "USD",
+   "limitation": "Not a unique-subscriber lifetime value or an amount to add to the sales-dashboard total."
+  }
+ ],
+ "warning": "Keep business sales, email-report credit and one email's credit separate. They do not establish the financial winner or causal sales effect.",
+ "checkedAt": "2026-11-05T16:58:40.029Z",
+ "notSummable": true,
+ "verifiedEmailGeneratedRevenue": null
+}

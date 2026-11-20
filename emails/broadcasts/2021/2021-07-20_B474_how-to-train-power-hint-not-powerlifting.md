@@ -1,0 +1,145 @@
+---
+key: "B474"
+type: "broadcast"
+name: "Power Email"
+subject: "How To Train Power (hint, not Powerlifting)"
+sender: "mike@mikesalemi.io"
+source_date: "2021-07-20"
+source_hour: "16"
+source_minute: "34"
+family: "Other / mixed"
+word_count: "593"
+sent: "3158"
+opens: "1010"
+clicks: "7"
+goals: "0"
+unsubs: "10"
+spam: "1"
+bounces: "3"
+open_rate: "31.98%"
+click_rate: "0.22%"
+revenue_field_usd: 0.0
+weekday: "Tuesday"
+sequence: null
+step: null
+status: "sent"
+---
+
+# How To Train Power (hint, not Powerlifting)
+
+Hi {first_name},
+
+ 
+
+Powerlifting is actually strength lifting.
+
+ 
+
+Most people training for power with the squat, bench press, and deadlift are not truly training for power. 
+
+ 
+
+The definition of power is: (Force x Distance) / Time
+
+ 
+
+Time is a HUGE part of the equation above and is a big distinguishing factor, whether you are developing strength or power. Remember this, power movements are to be done QUICK!
+
+ 
+
+In my opinion, just about all of us will benefit from power training in our programs if we have achieved:
+
+ 
+
+Prerequisite flexibility
+Prerequisite stability
+Base strength
+
+ 
+
+If you’re grinding, it isn’t power.
+
+ 
+
+The Olympic Lifts Didn’t Get My Athletes the Best Results
+
+ 
+
+When I was a collegiate strength and conditioning coach for Santa Clara university, I trained the men’s tennis team. Tennis in particular requires high amounts of repeated power, as well as agility (ability to change directions) in all planes. 
+
+ 
+
+At the time, I was competing in the sport of Olympic Weightlifting and just starting my journey with Kettlebells. Like many coaches, I prescribed the barbell clean, jerk, or snatch to increase power. 
+
+ 
+
+It didn’t work very well.
+
+ 
+
+Even with these Division I athletes, teaching a group of 8-12 athletes was time-consuming and their skill with these movements was quite low coming in. I never felt I could actually spend enough time with them (session days and durations of gym time were not always consistent nor could be very long) to support them in developing their technique enough to be able to get the most out of it. 
+
+ 
+
+Instead, I ended up utilizing kettlebells and medicine balls with MUCH more success and less of a risk of injury.
+
+ 
+
+You Want POWER
+
+ 
+
+Power training helps develop fast-twitch muscle fibers. Fast-twitch muscles are beneficial to anyone who wants to jump higher, run faster, and throw harder. But power doesn’t only benefit athletes.
+
+ 
+
+Training power heightens and enhances the performance of your nervous system as well by improving reaction time, making you more resilient, durable, AND adaptable in daily life.
+
+ 
+
+Here are the 3 keys to ensure you are getting the most out of your power training.
+
+ 
+
+Have the technical proficiency to perform the movement
+Maintain speed throughout the set
+Maintain your quality of technique throughout the set
+
+ 
+
+If any of these are lacking or are not up to par, then consider strongly revising the approach in any combination of the ways below.
+
+ 
+
+Choose a simpler movement you are comfortable with
+Reduce the number of reps, load, or sets to the point that you can maintain your speed
+Reduce the number of reps, load, or sets to the point that you can maintain your technique
+
+ 
+
+Stay tuned for next week's video to discuss this further, as well as for technical coaching on two of my favorite power-producing lifts.
+
+ 
+
+Powerful people are quick, springy, agile, and stronger than they look. 
+
+ 
+
+Stay strong (and powerful),
+
+
+ 
+
+Mike
+
+ 
+
+P.S. I’ll be talking about power and how you can effectively develop it all month. Stay tuned! And if you’ve wondered why I love the kettlebell and Bulgarian Bag so much, power is one of the big reasons. These tools are perfect for keeping speed high with techniques you can master quickly.  
+
+ 
+
+P.P.S. Tomorrow, Wed. 7/21 @2pmPST / 5pmEST I will be interviewing owner of the biodynamic farm, Be Here Farm + Nature - Jared Pickard. Jared was a recent guest on Paul Chek's Podcast, which was fantastic! Tomorrow tune into IG Live (@Mike.Salemi) for what will be a great conversation called "Beyond Organic Farming + Holistic Self Care"! : )
+
+
+---
+[Rendered HTML with images](2021-07-20_B474_how-to-train-power-hint-not-powerlifting.html)

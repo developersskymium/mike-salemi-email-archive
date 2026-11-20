@@ -1,0 +1,52 @@
+---
+key: "N1107"
+type: "notification"
+name: "Membership welcome"
+subject: "Your Login Information [Athleticism 4 Life Program]"
+sender: "mike@mikesalemi.io"
+source_date: ""
+source_hour: ""
+source_minute: ""
+family: "Notification / fulfillment"
+word_count: "53"
+sent: ""
+opens: ""
+clicks: ""
+goals: ""
+unsubs: ""
+spam: ""
+bounces: ""
+open_rate: ""
+click_rate: ""
+revenue_field_usd: ""
+weekday: null
+sequence: null
+step: null
+status: "notification-preview"
+---
+
+# Your Login Information [Athleticism 4 Life Program]
+
+Welcome, we've got a RAD journey in store for you with Athleticism 4 Life!
+
+ 
+
+Here are your login details:
+
+ 
+
+Login page: {login_page}
+Email: {login_email}
+Password: {login_password} (this is a temporary auto-generated password. We suggest that you change it immediately upon logging in).
+
+ 
+
+LET'S DO THIS!
+
+Mike Salemi
+
+Performance Specialist
+
+
+---
+[Rendered HTML with images](N1107_your-login-information-athleticism-4-life-program.html)
